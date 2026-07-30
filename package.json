@@ -30,7 +30,9 @@
     "lint": "eslint",
     "preinstall": "npx only-allow pnpm",
     "start": "bash ./scripts/start.sh",
-    "ts-check": "tsc -p tsconfig.json"
+    "ts-check": "tsc -p tsconfig.json",
+    "lint:build": "eslint . --quiet",
+    "validate": "pnpm run --parallel '/^(ts-check|lint:build)$/'"
   },
   "type": "module",
   "version": "0.0.1"
