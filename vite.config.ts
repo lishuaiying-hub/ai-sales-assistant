@@ -11,6 +11,7 @@ function getPlugins() {
 
 export default defineConfig({
   plugins: getPlugins(),
+  base: '/ai-sales-assistant/',
   server: {
     port: 5000,
     host: '0.0.0.0',
