@@ -2,7 +2,7 @@
 
 项目编号: 7578816146003099931
 
-本项目是由 [网站开发专家](https://space.coze.cn/) 创建.
+本项目是由 [网站开发专家](https://space.coze.cn/) 创建,lishuaiying(PM)设计.
 
 [**项目地址**](https://space.coze.cn/task/7578816146003099931)
 
